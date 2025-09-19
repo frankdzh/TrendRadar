@@ -4,10 +4,12 @@
 
 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯
 
+<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v2.1.2-green.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v2.2.0-green.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知支持-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![Telegram通知](https://img.shields.io/badge/Telegram-通知支持-00D4AA?style=flat-square)](https://telegram.org/)
@@ -20,12 +22,12 @@
 </div>
 
 
-> 本项目以轻量，易部署为目标，主要处理 issues
+> 本项目以轻量，易部署为目标
 >
-> 遇到问题提 issues，或【硅基茶水间】公众号留言
+> 遇到问题提 issues，或【硅基茶水间】公众号相关文章下留言
 
 <details>
-<summary>👉 点击查看<strong>致谢名单</strong> (当前 <strong>🔥18🔥</strong> 位)</summary>
+<summary>👉 点击查看<strong>致谢名单</strong> (当前 <strong>🔥20🔥</strong> 位)</summary>
 
 ### 数据支持
 
@@ -45,6 +47,8 @@
 
 |           点赞人            |  金额  |  日期  |             备注             |
 | :-------------------------: | :----: | :----: | :-----------------------: |
+|           z*u            |  2  | 2025.9.19  |           |
+|           **昊            |  5  | 2025.9.17  |           |
 |           *号            |  1  | 2025.9.15  |           |
 |           T*T            |  2  | 2025.9.15  |  点赞         |
 |           *家            |  10  | 2025.9.10  |           |
@@ -133,7 +137,7 @@
 
 GitHub 一键 Fork 即可使用，无需编程基础。
 
-> 30秒部署： GitHub Pages（网页浏览）
+> 30秒部署： GitHub Pages（网页浏览）支持一键保存成图片，随时分享给他人
 >
 > 1分钟部署： 企业微信（手机通知）
 
@@ -230,13 +234,22 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 > 
 > 下一次**新功能**，大概会是 ai 分析功能(大概(●'◡'●)
 
-### 2025/09/13 - v2.1.2
+### 2025/09/17 - v2.2.0
 
-- 解决钉钉的推送容量限制导致的新闻推送失败问题(采用分批推送)
+- 新增一键保存新闻图片功能，让你轻松分享关注的热点
 
+**使用说明**：
+- 适用场景：当你按照教程开启了网页版功能后(GitHub Pages)
+- 使用方法：用手机或电脑打开该网页链接，点击页面顶部的"保存为图片"按钮
+- 实际效果：系统会自动将当前的新闻报告制作成一张精美图片，保存到你的手机相册或电脑桌面
+- 分享便利：你可以直接把这张图片发给朋友、发到朋友圈，或分享到工作群，让别人也能看到你发现的重要资讯
 
 <details>
 <summary><strong>👉 历史更新</strong></summary>
+
+### 2025/09/13 - v2.1.2
+
+- 解决钉钉的推送容量限制导致的新闻推送失败问题(采用分批推送)
 
 ### 2025/09/04 - v2.1.1
 
